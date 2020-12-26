@@ -4,3 +4,4 @@ hi
 # some description
 # local development
 open index.html on your browser
+have fun
